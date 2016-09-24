@@ -1,0 +1,8 @@
+public class GeneticApp{
+  
+  int [] [] strawb_array = new Integer[] [];
+  
+  public static void main(String[] args){
+    
+  }
+}
